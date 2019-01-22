@@ -19,7 +19,15 @@
 * 同一行可以书写多条语句，需要使用分号`;`隔开
 ### Python保留字
 
-|列1|列2|列3|     
-|-|:-:|-:|
-|刘备|张飞|相遇|
+|:-:|:-:|:-:|
+and	    |  exec	    |not
+assert	|  finally	|or
+break	|  for	    |pass
+class	|  from	    |print
+continue|  global	|raise
+def	    |  if	    |return
+del	    |  import	|try
+elif	|  in	    |while
+else	|  is	    |with
+except	|  lambda	|yield
 
