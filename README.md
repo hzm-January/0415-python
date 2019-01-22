@@ -1,2 +1,9 @@
-# 0415-python
-python quick start
+# Python笔记
+## 安装Python
+1. 下载对应系统的安装包
+2. 配置环境变量
+3. 测试是否配置成功  
+`python --version`
+## HelloWorld
+1. 新建hello.py文件，并编写以下内容  
+`print('Hello, World!')`
