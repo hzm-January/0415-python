@@ -18,7 +18,7 @@
 * 双下划线开头并结尾：（例：__foo__）Python 里特殊方法专用的标识（例：__init__()）表示类的构造函数
 * 同一行可以书写多条语句，需要使用分号`;`隔开
 ### Python保留字
-||
+&nbsp|&nbsp|&nbsp
 |:-:|:-:|:-:|
 and	    |  exec	    |not
 assert	|  finally	|or
